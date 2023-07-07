@@ -18,7 +18,7 @@
 }
 
 .elementor-8 .elementor-element.elementor-element-4ab02c3 a {
-  color: var(--e-global-color-1183d16);
+  color: var(--e-global-color-white);
 }
 
 .elementor-8 .elementor-element.elementor-element-4ab02c3 a:hover {
@@ -101,7 +101,7 @@ body:not(.rtl) .elementor-8 .elementor-element.elementor-element-eadb9dc .elemen
 }
 
 .elementor-8 .elementor-element.elementor-element-eadb9dc .elementor-icon-list-text {
-  color: #8A8A8A;
+  color: #ffffff;
   transition: color 0.3s;
 }
 
@@ -129,7 +129,7 @@ body:not(.rtl) .elementor-8 .elementor-element.elementor-element-eadb9dc .elemen
 
 .elementor-8 .elementor-element.elementor-element-de5ddb1 {
   text-align: right;
-  color: #8A8A8A;
+  color: #ffffff;
   font-family: "Outfit", Sans-serif;
   font-size: 14px;
   font-weight: 400;
@@ -142,7 +142,7 @@ body:not(.rtl) .elementor-8 .elementor-element.elementor-element-eadb9dc .elemen
 
 .elementor-8 .elementor-element.elementor-element-3a5204d {
   text-align: right;
-  color: #8A8A8A;
+  color: #ffffff;
   font-family: "Outfit", Sans-serif;
   font-size: 14px;
   font-weight: 400;
@@ -171,7 +171,7 @@ body:not(.rtl) .elementor-8 .elementor-element.elementor-element-eadb9dc .elemen
 
 .elementor-8 .elementor-element.elementor-element-100a612 {
   text-align: right;
-  color: #8A8A8A;
+  color: #ffffff;
   font-family: "Outfit", Sans-serif;
   font-size: 14px;
   font-weight: 400;
@@ -261,7 +261,7 @@ body:not(.rtl) .elementor-8 .elementor-element.elementor-element-f99ff28 .elemen
 }
 
 .elementor-8 .elementor-element.elementor-element-f99ff28 .elementor-icon-list-text {
-  color: #8A8A8A;
+  color: #ffffff;
   transition: color 0.3s;
 }
 
@@ -330,7 +330,7 @@ body:not(.rtl) .elementor-8 .elementor-element.elementor-element-f99ff28 .elemen
 
 .elementor-8 .elementor-element.elementor-element-a7b18c0 {
   --divider-border-style: solid;
-  --divider-color: #242424;
+  --divider-color: #ffffff;
   --divider-border-width: 1.4px;
 }
 
@@ -352,8 +352,8 @@ body:not(.rtl) .elementor-8 .elementor-element.elementor-element-f99ff28 .elemen
 }
 
 .elementor-8 .elementor-element.elementor-element-149f4a2 img {
-  width: 120px;
-  height: 120px;
+  width: 182px;
+  height: 146px;
 }
 
 .elementor-8 .elementor-element.elementor-element-9ab8fc8 .elementor-button .elementor-align-icon-right {
@@ -367,10 +367,10 @@ body:not(.rtl) .elementor-8 .elementor-element.elementor-element-f99ff28 .elemen
 .elementor-8 .elementor-element.elementor-element-9ab8fc8 .elementor-button {
   font-family: "Outfit", Sans-serif;
   font-size: 14px;
-  font-weight: 400;
-  fill: #9A9A9A;
-  color: #9A9A9A;
-  background-color: #61CE7000;
+  font-weight: 400; 
+  color: #ffffff;
+  background: radial-gradient(circle at -8.9% 51.2%, rgb(255, 124, 0) 0%, rgb(255, 124, 0) 15.9%, rgb(255, 163, 77) 15.9%, rgb(214, 17, 17) 24.4%, rgb(19, 30, 37) 24.5%, rgb(19, 30, 37) 66%);
+ 
   border-style: none;
   padding: 0px 0px 0px 0px;
 }
@@ -423,9 +423,8 @@ body:not(.rtl) .elementor-8 .elementor-element.elementor-element-f99ff28 .elemen
   font-family: "Outfit", Sans-serif;
   font-size: 16px;
   font-weight: 400;
-  fill: #9A9A9A;
-  color: #9A9A9A;
-  background-color: #1A1A1A;
+  color: #ffffff;
+  background: radial-gradient(circle at -8.9% 51.2%, rgb(255, 124, 0) 0%, rgb(255, 124, 0) 15.9%, rgb(255, 163, 77) 15.9%, rgb(214, 17, 17) 24.4%, rgb(19, 30, 37) 24.5%, rgb(19, 30, 37) 66%);
   border-style: solid;
   border-width: 1px 1px 1px 1px;
   border-color: #242424;
@@ -434,7 +433,8 @@ body:not(.rtl) .elementor-8 .elementor-element.elementor-element-f99ff28 .elemen
 
 .elementor-8 .elementor-element.elementor-element-5593b2f:not(.elementor-motion-effects-element-type-background),
 .elementor-8 .elementor-element.elementor-element-5593b2f>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-  background-color: #1A1A1A;
+  background: linear-gradient(180deg, rgb(32, 38, 57) 11.4%, rgb(37, 45, 71) 70.2%);
+
 }
 
 .elementor-8 .elementor-element.elementor-element-5593b2f {
@@ -490,7 +490,8 @@ body:not(.rtl) .elementor-8 .elementor-element.elementor-element-f99ff28 .elemen
 
 .elementor-8 .elementor-element.elementor-element-d674995:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
 .elementor-8 .elementor-element.elementor-element-d674995>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-  background-color: #1A1A1A;
+  --background-color: #024449;
+  background: radial-gradient(circle at 1.8% 4.8%, rgb(17, 23, 58) 0%, rgb(58, 85, 148) 90%);
 }
 
 .elementor-8 .elementor-element.elementor-element-d674995>.elementor-element-populated {
@@ -547,7 +548,7 @@ body:not(.rtl) .elementor-8 .elementor-element.elementor-element-f99ff28 .elemen
 }
 
 .elementor-8 .elementor-element.elementor-element-a4e8e28 {
-  color: #8A8A8A;
+  color: #ffffff;
   font-family: "Outfit", Sans-serif;
   font-size: 14px;
   font-weight: 300;
@@ -618,7 +619,7 @@ body:not(.rtl) .elementor-8 .elementor-element.elementor-element-f99ff28 .elemen
 }
 
 .elementor-8 .elementor-element.elementor-element-76d183c {
-  color: #8A8A8A;
+  color: #ffffff;
   font-family: "Outfit", Sans-serif;
   font-size: 14px;
   font-weight: 300;
@@ -689,7 +690,7 @@ body:not(.rtl) .elementor-8 .elementor-element.elementor-element-f99ff28 .elemen
 }
 
 .elementor-8 .elementor-element.elementor-element-9bbd82b {
-  color: #8A8A8A;
+  color: #ffffff;
   font-family: "Outfit", Sans-serif;
   font-size: 14px;
   font-weight: 300;
@@ -760,7 +761,7 @@ body:not(.rtl) .elementor-8 .elementor-element.elementor-element-f99ff28 .elemen
 }
 
 .elementor-8 .elementor-element.elementor-element-ee3acbd {
-  color: #8A8A8A;
+  color: #ffffff;
   font-family: "Outfit", Sans-serif;
   font-size: 14px;
   font-weight: 300;
@@ -820,10 +821,10 @@ body:not(.rtl) .elementor-8 .elementor-element.elementor-element-f99ff28 .elemen
 .elementor-8 .elementor-element.elementor-element-186cfda .elementor-button {
   font-family: "Outfit", Sans-serif;
   font-size: 16px;
-  font-weight: 400;
-  fill: #9A9A9A;
-  color: #9A9A9A;
-  background-color: #1A1A1A;
+  font-weight: 400; 
+  color: #ffffff;
+  background: radial-gradient(circle at -8.9% 51.2%, rgb(255, 124, 0) 0%, rgb(255, 124, 0) 15.9%, rgb(255, 163, 77) 15.9%, rgb(214, 17, 17) 24.4%, rgb(19, 30, 37) 24.5%, rgb(19, 30, 37) 66%);
+ 
   border-style: solid;
   border-width: 1px 1px 1px 1px;
   border-color: #242424;
@@ -895,7 +896,7 @@ body:not(.rtl) .elementor-8 .elementor-element.elementor-element-f99ff28 .elemen
 }
 
 .elementor-8 .elementor-element.elementor-element-66c9324 {
-  color: #8A8A8A;
+  color: #ffffff;
   font-family: "Outfit", Sans-serif;
   font-size: 14px;
   font-weight: 400;
@@ -914,7 +915,7 @@ body:not(.rtl) .elementor-8 .elementor-element.elementor-element-f99ff28 .elemen
 
 .elementor-8 .elementor-element.elementor-element-40b58e2 {
   text-align: right;
-  color: #8A8A8A;
+  color: #ffffff;
   font-family: "Outfit", Sans-serif;
   font-size: 14px;
   font-weight: 400;
@@ -927,7 +928,7 @@ body:not(.rtl) .elementor-8 .elementor-element.elementor-element-f99ff28 .elemen
 
 .elementor-8 .elementor-element.elementor-element-3027799 {
   text-align: right;
-  color: #8A8A8A;
+  color: #ffffff;
   font-family: "Outfit", Sans-serif;
   font-size: 14px;
   font-weight: 400;
@@ -956,7 +957,7 @@ body:not(.rtl) .elementor-8 .elementor-element.elementor-element-f99ff28 .elemen
 
 .elementor-8 .elementor-element.elementor-element-c14d64f {
   text-align: right;
-  color: #8A8A8A;
+  color: #ffffff;
   font-family: "Outfit", Sans-serif;
   font-size: 14px;
   font-weight: 400;
@@ -994,7 +995,7 @@ body:not(.rtl) .elementor-8 .elementor-element.elementor-element-f99ff28 .elemen
 }
 
 .elementor-8 .elementor-element.elementor-element-3e33d1c {
-  color: #8A8A8A;
+  color: #ffffff;
   font-family: "Outfit", Sans-serif;
   font-size: 14px;
   font-weight: 400;
@@ -1048,8 +1049,7 @@ body:not(.rtl) .elementor-8 .elementor-element.elementor-element-f99ff28 .elemen
 
 body.elementor-page-8:not(.elementor-motion-effects-element-type-background),
 body.elementor-page-8>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-  background-color: #161616;
-  background-image: url("https://kawsar.design/wp-content/uploads/2023/02/BG-Tx-1.svg");
+  background: linear-gradient(112.1deg, rgb(32, 38, 57) 11.4%, rgb(63, 76, 119) 70.2%);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1530,7 +1530,7 @@ h1 {
   background: linear-gradient(97.13deg, #979494 0%, #ffffff 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent; 
-  text-shadow: 2px 1px 1px #adadb3;
+  text-shadow: 2px 1px 1px #ffffff;
 }
 
 /* End custom CSS */
