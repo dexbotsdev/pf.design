@@ -1512,7 +1512,6 @@ body.elementor-page-8>.elementor-motion-effects-container>.elementor-motion-effe
 
   body.elementor-page-8:not(.elementor-motion-effects-element-type-background),
   body.elementor-page-8>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-image: url("BG-Tx-1.svg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
